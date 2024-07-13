@@ -15,8 +15,8 @@ This project provides a reliable backend solution for typical web applications, 
 - **And many more...**
 
 ## OpenAPI Documentation
-The detailed API documentation can be accessed here: https://necynazy.github.io/Hng-JavaStage3Design/
-Also, the ``.yaml`` file that generated the presented OpenAPI documentation has been added as a file to the root directory of this repository, named ``GITHUKUELIUD-HNG-Stage-3-1.0.0-resolved (1).yaml.``
+The detailed API documentation can be accessed here: https://necynazy.github.io/Hng-BackendDesignTest/
+Also, the ``.yaml`` file that generated the presented OpenAPI documentation has been added as a file to the root directory of this repository, named ``OpenAPI.yaml.``
 
 ## Database Design
 The database design ensures efficient data management and relationships. The key entities include Users, Organisations, Payments, Posts, and Comments.
