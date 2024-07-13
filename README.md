@@ -1,8 +1,26 @@
-# [App Name] Integration Documentation
+# HNG Stage 3 Backend Documentation
 
 ## Overview
 
-[Description]
+This project provides a reliable backend solution for typical web applications, featuring essential functionalities often required in various projects. The goal is to offer a boilerplate codebase, integrating many frequently used features, to accelerate development and ensure best practices.
+
+## Features
+- **Admins:** Manage users, organisations, payments, and activity logs through a superadmin interface.
+- **Authentication:** Supports traditional, social, and magic link authentication methods.
+- **Payments:** Handle payment processing and record-keeping.
+- **Users:** CRUD operations for user management, including profile settings and password changes.
+- **Organisations:** Manage organisations and their relationships with users.
+- **Posts:** CRUD operations for managing posts.
+- **Comments:** CRUD operations for managing comments on posts.
+- **And many more...**
+
+## OpenAPI Documentation
+The detailed API documentation can be accessed here: [https://necynazy.github.io/Hng-JavaStage3Design/]
+Also, the ``.yaml`` file that generated the presented OpenAPI documentation has been added as a file to the root directory of this repository.
+
+## Database Design
+The database design ensures efficient data management and relationships. The key entities include Users, Organisations, Payments, Posts, and Comments.
+The adopted Entity Relational Diagram (ERD) is provided here: [https://drive.google.com/file/d/1-UnsBI-aMwkw4M0Qaq00WWH3CNJOowfn/view?usp=sharing]
 
 ## Folder Structure
 
